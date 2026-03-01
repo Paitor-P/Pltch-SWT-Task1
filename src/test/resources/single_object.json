@@ -1,0 +1,15 @@
+{
+  "timeStart": 0.0,
+  "timeEnd": 10.0,
+  "objects": [
+    {
+      "type": "circle",
+      "x": 0,
+      "y": 0,
+      "vx": 0,
+      "vy": 0,
+      "radius": 5
+    }
+  ]
+}
+

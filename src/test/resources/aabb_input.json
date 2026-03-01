@@ -1,0 +1,24 @@
+{
+  "timeStart": 0.0,
+  "timeEnd": 10.0,
+  "objects": [
+    {
+      "type": "aabb",
+      "x": 0,
+      "y": 0,
+      "vx": 1,
+      "vy": 0,
+      "width": 4,
+      "height": 4
+    },
+    {
+      "type": "aabb",
+      "x": 10,
+      "y": 0,
+      "vx": -1,
+      "vy": 0,
+      "width": 4,
+      "height": 4
+    }
+  ]
+}

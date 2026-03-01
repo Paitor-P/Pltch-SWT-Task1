@@ -1,0 +1,6 @@
+[ {
+  "collision" : true,
+  "time" : 3.0,
+  "objectA" : 1,
+  "objectB" : 2
+} ]
