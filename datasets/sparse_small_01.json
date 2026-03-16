@@ -1,0 +1,365 @@
+{
+  "timeStart" : 0.0,
+  "timeEnd" : 20.0,
+  "objects" : [ {
+    "type" : "circle",
+    "x" : 0.0,
+    "y" : 0.0,
+    "vx" : 0.08403813550441075,
+    "vy" : 0.09775229848255307,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 25.0,
+    "y" : 0.0,
+    "vx" : 0.006686656135990926,
+    "vy" : 0.12867439610084114,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 50.0,
+    "y" : 0.0,
+    "vx" : 0.1426481979268755,
+    "vy" : -0.1525457862409196,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 75.0,
+    "y" : 0.0,
+    "vx" : -0.12826812292700274,
+    "vy" : 0.002160007266527153,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 100.0,
+    "y" : 0.0,
+    "vx" : 0.09042832193657746,
+    "vy" : 0.1881317893549227,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 125.0,
+    "y" : 0.0,
+    "vx" : 0.1009194991123924,
+    "vy" : -0.17297418263114095,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 150.0,
+    "y" : 0.0,
+    "vx" : 0.0014822743955391071,
+    "vy" : 0.04777520953516873,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 0.0,
+    "y" : 25.0,
+    "vx" : -0.12931649382511007,
+    "vy" : 0.1095641512699127,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 25.0,
+    "y" : 25.0,
+    "vx" : 0.005264849583079462,
+    "vy" : -0.004773604033632056,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 50.0,
+    "y" : 25.0,
+    "vx" : 0.12654232932638726,
+    "vy" : -0.015898041281867004,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 75.0,
+    "y" : 25.0,
+    "vx" : -0.16992218357038624,
+    "vy" : 0.03202104466671768,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 100.0,
+    "y" : 25.0,
+    "vx" : -0.18285549285529124,
+    "vy" : 0.11968594317703984,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 125.0,
+    "y" : 25.0,
+    "vx" : 0.09418441829787816,
+    "vy" : -0.012508169129718777,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 150.0,
+    "y" : 25.0,
+    "vx" : -0.18062844165808964,
+    "vy" : -0.10578029857022818,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 0.0,
+    "y" : 50.0,
+    "vx" : -0.043873186127507235,
+    "vy" : -0.010247482606786651,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 25.0,
+    "y" : 50.0,
+    "vx" : -0.1141908995925871,
+    "vy" : -0.02003868452977428,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 50.0,
+    "y" : 50.0,
+    "vx" : 0.04090907782435113,
+    "vy" : -0.08161451237128628,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 75.0,
+    "y" : 50.0,
+    "vx" : -0.16777467152073,
+    "vy" : 0.1487433599407863,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 100.0,
+    "y" : 50.0,
+    "vx" : -0.07371352688252286,
+    "vy" : -0.05964115998288633,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 125.0,
+    "y" : 50.0,
+    "vx" : -0.06847578680805322,
+    "vy" : -0.067769769343027,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 150.0,
+    "y" : 50.0,
+    "vx" : -0.09652015210287278,
+    "vy" : -0.011098089875640232,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 0.0,
+    "y" : 75.0,
+    "vx" : -0.10803117273876955,
+    "vy" : -0.03801921025257826,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 25.0,
+    "y" : 75.0,
+    "vx" : 0.019212139234385084,
+    "vy" : -0.034228693816514444,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 50.0,
+    "y" : 75.0,
+    "vx" : 0.07129819322005648,
+    "vy" : -0.0339623976432763,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 75.0,
+    "y" : 75.0,
+    "vx" : -0.0389579342770896,
+    "vy" : 0.1305428845606587,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 100.0,
+    "y" : 75.0,
+    "vx" : -0.08531043301949835,
+    "vy" : -0.08678287872143194,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 125.0,
+    "y" : 75.0,
+    "vx" : -0.034451773407034564,
+    "vy" : 0.18626781400246223,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 150.0,
+    "y" : 75.0,
+    "vx" : -0.19665431462591015,
+    "vy" : 0.07322804738645045,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 0.0,
+    "y" : 100.0,
+    "vx" : 0.008994996626361607,
+    "vy" : -0.020965504337805585,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 25.0,
+    "y" : 100.0,
+    "vx" : -0.03818497154344866,
+    "vy" : -0.1998012433330513,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 50.0,
+    "y" : 100.0,
+    "vx" : 0.08268963490959774,
+    "vy" : 0.09968070648104832,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 75.0,
+    "y" : 100.0,
+    "vx" : 0.19598114268232886,
+    "vy" : 0.04914714228063363,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 100.0,
+    "y" : 100.0,
+    "vx" : -0.03968179062556185,
+    "vy" : -0.19089611653165456,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 125.0,
+    "y" : 100.0,
+    "vx" : -0.18001488277651223,
+    "vy" : 0.19938000557546898,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 150.0,
+    "y" : 100.0,
+    "vx" : 0.13212617085713058,
+    "vy" : -0.19567956605582945,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 0.0,
+    "y" : 125.0,
+    "vx" : 0.17917349809469751,
+    "vy" : 0.0857616505550291,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 25.0,
+    "y" : 125.0,
+    "vx" : 0.1108872013013123,
+    "vy" : 6.279319637735592E-4,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 50.0,
+    "y" : 125.0,
+    "vx" : -0.11250787374007909,
+    "vy" : 0.02824497018433539,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 75.0,
+    "y" : 125.0,
+    "vx" : 0.1071825445515397,
+    "vy" : 0.12592753269405482,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  }, {
+    "type" : "circle",
+    "x" : 100.0,
+    "y" : 125.0,
+    "vx" : 0.07157438792112353,
+    "vy" : -0.09798889493275414,
+    "radius" : 1.5,
+    "width" : null,
+    "height" : null
+  } ]
+}
