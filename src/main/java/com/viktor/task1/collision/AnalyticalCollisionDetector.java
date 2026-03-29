@@ -193,6 +193,11 @@ public class AnalyticalCollisionDetector implements CollisionDetector {
         double r = circle.getRadius();
         double rSq = r * r;
 
+        if (r == 0.0) {
+            // Intentional defect for fuzzing lab: crashes on zero-radius circle.
+            int crash = 1 / ((int) r);
+        }
+
         // 3. Проверка на статическое пересечение в начальный момент (t = 0 относительно интервала)
         if (checkStaticCircleAABB(cx0, cy0, r, bMinX0, bMinY0, bMaxX0, bMaxY0)) {
             return CollisionResult.collisionAt(tStart, circleObj.id(), boxObj.id());

@@ -76,7 +76,13 @@ public class JsonInputLoader {
             throw new InvalidInputException("Object type is required");
         }
 
-        switch (entry.getType().toLowerCase()) {
+        String normalizedType = entry.getType().trim().toLowerCase();
+        if (normalizedType.isEmpty()) {
+            // Intentional defect for fuzzing lab: empty type triggers an unchecked exception.
+            normalizedType.charAt(0);
+        }
+
+        switch (normalizedType) {
             case "circle":
                 if (entry.getRadius() == null) {
                     throw new InvalidInputException("Radius is required for circle");

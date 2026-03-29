@@ -1,0 +1,41 @@
+﻿{
+    "total":  39,
+    "bySeverity":  [
+                       {
+                           "severity":  "MINOR",
+                           "count":  13
+                       },
+                       {
+                           "severity":  "CRITICAL",
+                           "count":  5
+                       },
+                       {
+                           "severity":  "INFO",
+                           "count":  1
+                       },
+                       {
+                           "severity":  "MAJOR",
+                           "count":  19
+                       },
+                       {
+                           "severity":  "BLOCKER",
+                           "count":  1
+                       }
+                   ],
+    "byType":  [
+                   {
+                       "type":  "CODE_SMELL",
+                       "count":  35
+                   },
+                   {
+                       "type":  "BUG",
+                       "count":  3
+                   },
+                   {
+                       "type":  "VULNERABILITY",
+                       "count":  1
+                   }
+               ],
+    "mainOnly":  25,
+    "testOnly":  14
+}
